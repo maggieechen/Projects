@@ -1,3 +1,6 @@
+#Description: This program takes an original message and returns the encrypted message following the ideas of cryptology, an ancient
+#study of secret writing. It can also take an encrypted message and decrypt it.
+
 import sys
 import math
 
