@@ -1,21 +1,7 @@
 
 #  File: TestBinaryTree.py
 
-#  Description: This program adds helper methods that can be tested in the Tree class.
-#  It will create several trees and show that the methods work.
-
-#  Student Name: Maggie Chen
-
-#  Student UT EID: mc74329
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52020
-
-#  Date Created: March 21, 2023
-
-#  Date Last Modified: March 21, 2023
-
+#  Description: This program adds helper methods that can be tested in the Tree class. It will create several trees and show that the methods work.
 
 import sys
 
