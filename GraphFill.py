@@ -1,16 +1,8 @@
 #  File: GraphFill.py
-#  Description:
-#  Student Name: Maggie Chen
-#  Student UT EID: mc74329
-#  Course Name: CS 313E
-#  Unique Number: 52020
-#  Date Created: March 30,2023
-#  Date Last Modified: March 30,2023
+#  Description: This program prints the adjacency matrix for a graph and implement Breadth-First Search and Depth-First Search to flood fill pixels in images. It treats each pixel of an input image as a node in a graph. It starts at a given node/pixel and explores the graph from theres, changing the color of each pixel as we visit it. It reads in a file containing nodes, consisting of an x-&y-coordinate and a color, and edges between the nodes to build a graph.
 
 import os
 import sys
-
-# -----------------------PRINTING LOGIC, DON'T WORRY ABOUT THIS PART----------------------------
 
 # this enables printing colors on Windows somehow
 os.system("")
@@ -44,9 +36,6 @@ def colored(text, color):
 # prints a block (two characters) in the specified color
 def print_block(color):
     print(colored(BLOCK_CHAR, color)*2, end='')
-
-# -----------------------PRINTING LOGIC, DON'T WORRY ABOUT THIS PART----------------------------
-
 
 
 # Stack class; you can use this for your search algorithms
