@@ -1,13 +1,6 @@
 #  File: employee.py
-#  Description:
-#  Student Name:
-#  Student UT EID:
-#  Partner Name:
-#  Partner UT EID:
-#  Course Name: CS 313E
-#  Unique Number:
-#  Date Created:
-#  Date Last Modified:
+#  Description: This program includes several class constructors to represent a company. Each class returns certain attributes related
+# to each constructor.
 
 import sys
 
