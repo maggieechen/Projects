@@ -3,32 +3,6 @@
 #  Description: This program creates a square spiral based upon the size from the input file.
 #  It takes numbers from the input file and outputs the sum of all the numbers adjacent to this number, but not including this number.
 
-#  Student Name: Maggie Chen
-
-#  Student UT EID: mc74329
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52020
-
-#  Date Created: January 17th, 2023
-
-#  Date Last Modified: January 21, 2023
-
-# Input: n is an odd integer between 1 and 100
-#  File: Spiral.py
-
-#  Description: This program creates a square spiral based upon the size from the input file.
-#  It takes numbers from the input file and outputs the sum of all the numbers adjacent to this number, but not including this number.
-
-#  Student Name: Maggie Chen
-
-#  Student UT EID: mc74329
-
-#  Course Name: CS 313E
-
-#  Unique Number: 52020
-
 #  Date Created: January 17th, 2023
 
 #  Date Last Modified: January 21, 2023
